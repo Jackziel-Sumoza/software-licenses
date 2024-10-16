@@ -12,12 +12,12 @@ Versión 1.0 - Agosto 2003
 
 Una licencia permisiva simple que solo requiere la preservación de los derechos de autor y los avisos de licencia para la distribución de origen (y no binaria). Las obras con licencia, las modificaciones y las obras más grandes se pueden distribuir en diferentes términos y sin código fuente.
 
-| Permisos         | Limitaciones       |
-| ---------------- | ------------------ |
-| ✔️ Uso comercial | ✖️ Responsabilidad |
-| ✔️ Modificación  | ✖️ Garantía        |
-| ✔️ Distribución  |                    |
-| ✔️ Uso privado   |                    |
+| Permisos         | Limitaciones       | Condiciones                              |
+| ---------------- | ------------------ | ---------------------------------------- |
+| ✔️ Uso comercial | ❌ Responsabilidad | 📃 Aviso de licencia y derechos de autor |
+| ✔️ Modificación  | ❌ Garantía        |                                          |
+| ✔️ Distribución  |                    |                                          |
+| ✔️ Uso privado   |                    |                                          |
 
 Esto no es asesoramiento legal. Obtenga más información sobre las licencias de repositorio.
 

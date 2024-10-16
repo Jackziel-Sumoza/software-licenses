@@ -10,12 +10,12 @@
 
 Una licencia permisiva que viene en dos variantes, la BSD 2-Clause y [BSD 3-Clause](./BSD-Simplificada-3.md). Ambos tienen diferencias muy pequeñas con la licencia MIT.
 
-| Permisos         | Limitaciones       |
-| ---------------- | ------------------ |
-| ✔️ Uso comercial | ✖️ Responsabilidad |
-| ✔️ Modificación  | ✖️ Garantía        |
-| ✔️ Distribución  |                    |
-| ✔️ Uso privado   |                    |
+| Permisos         | Limitaciones       | Condiciones                              |
+| ---------------- | ------------------ | ---------------------------------------- |
+| ✔️ Uso comercial | ❌ Responsabilidad | 📃 Aviso de licencia y derechos de autor |
+| ✔️ Modificación  | ❌ Garantía        |                                          |
+| ✔️ Distribución  |                    |                                          |
+| ✔️ Uso privado   |                    |                                          |
 
 Esto no es asesoramiento legal. Obtenga más información sobre las licencias de repositorio.
 

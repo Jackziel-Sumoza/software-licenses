@@ -12,12 +12,12 @@ CC0 Versión 1.0 Universal
 
 La Dedicación de Dominio Público Creative Commons CC0 renuncia al interés de los derechos de autor en un trabajo que ha creado y lo dedica al dominio público mundial. Use CC0 para optar por no recibir derechos de autor por completo y asegurarse de que su trabajo tenga el alcance más amplio. Al igual que con las licencias de software Unlicense y típicas, CC0 renuncia a las garantías. CC0 es muy similar a la Unlicense.
 
-| Permisos         | Limitaciones               |
-| ---------------- | -------------------------- |
-| ✔️ Uso comercial | ✖️ Responsabilidad         |
-| ✔️ Modificación  | ✖️ Garantía                |
-| ✔️ Distribución  | ✖️ Uso de patentes         |
-| ✔️ Uso privado   | ✖️ Uso de marca registrada |
+| Permisos         | Limitaciones               | Condiciones |
+| ---------------- | -------------------------- | ----------- |
+| ✔️ Uso comercial | ❌ Responsabilidad         |             |
+| ✔️ Modificación  | ❌ Garantía                |             |
+| ✔️ Distribución  | ❌ Uso de patentes         |             |
+| ✔️ Uso privado   | ❌ Uso de marca registrada |             |
 
 Esto no es asesoramiento legal. Obtenga más información sobre las licencias de repositorio.
 

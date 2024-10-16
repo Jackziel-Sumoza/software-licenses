@@ -12,13 +12,13 @@ Version 2.0 - January 2004 - [www.apache.org](http://www.apache.org/licenses/)
 
 Una licencia permisiva cuyas condiciones principales requieren la preservación de los derechos de autor y avisos de licencia. Los contribuyentes proporcionan una concesión expresa de derechos de patente. Las obras con licencia, las modificaciones y las obras más grandes se pueden distribuir en diferentes términos y sin código fuente.
 
-| Permisos           | Limitaciones               |
-| ------------------ | -------------------------- |
-| ✔️ Uso comercial   | ✖️ Uso de marca registrada |
-| ✔️ Modificación    | ✖️ Responsabilidad         |
-| ✔️ Distribución    | ✖️ Garantía                |
-| ✔️ Uso de patentes |                            |
-| ✔️ Uso privado     |                            |
+| Permisos           | Limitaciones               | Condiciones                              |
+| ------------------ | -------------------------- | ---------------------------------------- |
+| ✔️ Uso comercial   | ❌ Uso de marca registrada | 📃 Aviso de licencia y derechos de autor |
+| ✔️ Modificación    | ❌ Garantía                | 📃 Cambios de estado                     |
+| ✔️ Distribución    | ❌ Responsabilidad         |                                          |
+| ✔️ Uso privado     |                            |                                          |
+| ✔️ Uso de patentes |                            |                                          |
 
 Esto no es asesoramiento legal. Obtenga más información sobre las licencias de repositorio.
 

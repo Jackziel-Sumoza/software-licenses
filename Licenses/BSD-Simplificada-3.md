@@ -10,12 +10,12 @@
 
 Una licencia permisiva similar a la [Licencia BSD de 2 cláusulas](./BSD-Simplificada-2.md), pero con una cláusula 3 que prohíbe a otros usar el nombre del titular de los derechos de autor o sus contribuyentes para promocionar productos derivados sin consentimiento por escrito.
 
-| Permisos         | Limitaciones       |
-| ---------------- | ------------------ |
-| ✔️ Uso comercial | ✖️ Responsabilidad |
-| ✔️ Modificación  | ✖️ Garantía        |
-| ✔️ Distribución  |                    |
-| ✔️ Uso privado   |                    |
+| Permisos         | Limitaciones       | Condiciones                              |
+| ---------------- | ------------------ | ---------------------------------------- |
+| ✔️ Uso comercial | ❌ Responsabilidad | 📃 Aviso de licencia y derechos de autor |
+| ✔️ Modificación  | ❌ Garantía        |                                          |
+| ✔️ Distribución  |                    |                                          |
+| ✔️ Uso privado   |                    |                                          |
 
 Esto no es asesoramiento legal. Obtenga más información sobre las licencias de repositorio.
 

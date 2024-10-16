@@ -94,7 +94,7 @@ Puede agregar Su propia declaración de derechos de autor a Sus modificaciones y
 
 **Aceptar Garantía o Responsabilidad Adicional:** Al redistribuir la Obra o [Obras Derivadas](#obras-derivadas) de la misma, [Usted](#usted-o-su) puede optar por ofrecer y cobrar una tarifa por la aceptación de soporte, garantía, indemnización u otras obligaciones de responsabilidad y/o derechos consistentes con esta [Licencia](#licencia). Sin embargo, al aceptar dichas obligaciones, [Usted](#usted-o-su) puede actuar solo en Su propio nombre y bajo Su exclusiva responsabilidad, no en nombre de ningún otro [Contribuidor](#contribuidor), y solo si acepta indemnizar, defender y eximir a cada [Contribuidor](#contribuidor) de cualquier responsabilidad incurrida por, o reclamaciones presentadas en contra de, dicho [Contribuidor](#contribuidor) en razón de su aceptación de dicha garantía o responsabilidad adicional.
 
-***FIN DE LOS TÉRMINOS Y CONDICIONES***
+**_FIN DE LOS TÉRMINOS Y CONDICIONES_**
 
 ---
 

@@ -1,4 +1,4 @@
-````
+```
 Apache License
 Version 2.0, January 2004
 http://www.apache.org/licenses/
@@ -50,7 +50,7 @@ You may add Your own copyright statement to Your modifications and may provide a
 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 
 END OF TERMS AND CONDITIONS
-````
+```
 
 **How to apply the Apache License to your work**
 
@@ -58,7 +58,7 @@ Include a copy of the Apache License, typically in a file called LICENSE, in you
 
 To apply the Apache License to specific files in your work, attach the following boilerplate declaration, replacing the fields enclosed by brackets "[]" with your own identifying information. (Don't include the brackets!) Enclose the text in the appropriate comment syntax for the file format. We also recommend that you include a file or class name and description of purpose on the same "printed page" as the copyright notice for easier identification within third-party archives.
 
-````
+```
 Copyright [yyyy] [name of copyright owner]
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -73,4 +73,4 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
 See the License for the specific language governing permissions and
 limitations under the License.
-````
+```

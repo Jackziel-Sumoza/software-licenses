@@ -32,7 +32,7 @@ Significará los términos y condiciones de uso, reproducción y distribución d
 
 #### Licenciador:
 
-Significará el propietario de los derechos de autor o la entidad autorizada por el propietario de los derechos de autor que está otorgando la [[Licencia](#licencia)](#licencia).
+Significará el propietario de los derechos de autor o la entidad autorizada por el propietario de los derechos de autor que está otorgando la [Licencia](#licencia).
 
 #### Entidad Legal:
 
